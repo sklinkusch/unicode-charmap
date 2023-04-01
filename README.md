@@ -2,7 +2,8 @@
 
 ## Latin alphabet
 
-### Capital letters (without diacritics)
+### Capital letters
+#### without diacritics
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |0041    | A       | LATIN CAPITAL LETTER A                     |
@@ -32,7 +33,40 @@
 |0059    | Y       | LATIN CAPITAL LETTER Y                     |
 |005A    | Z       | LATIN CAPITAL LETTER Z                     |
 
-### Small letters (without diacritics)
+#### with diacritics
+##### **A**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00C0    | À       | LATIN CAPITAL LETTER A WITH GRAVE          |
+|00C1    | Á       | LATIN CAPITAL LETTER A WITH ACUTE          |
+|00C2    | Â       | LATIN CAPITAL LETTER A WITH CIRCUMFLEX     |
+|00C3    | Ã       | LATIN CAPITAL LETTER A WITH TILDE          |
+|00C4    | Ä       | LATIN CAPITAL LETTER A WITH DIAERESIS      |
+|00C5    | Å       | LATIN CAPITAL LETTER A WITH RING ABOVE     |
+
+##### **C**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00C7    | Ç       | LATIN CAPITAL LETTER C WITH CEDILLA        |
+
+##### **E**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00C8    | È       | LATIN CAPITAL LETTER E WITH GRAVE          |
+|00C9    | É       | LATIN CAPITAL LETTER E WITH ACUTE          |
+|00CA    | Ê       | LATIN CAPITAL LETTER E WITH CIRCUMFLEX     |
+|00CB    | Ë       | LATIN CAPITAL LETTER E WITH DIAERESIS      |
+
+##### **I**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00CC    | Ì       | LATIN CAPITAL LETTER I WITH GRAVE          |
+|00CD    | Í       | LATIN CAPITAL LETTER I WITH ACUTE          |
+|00CE    | Î       | LATIN CAPITAL LETTER I WITH CIRCUMFLEX     |
+|00CF    | Ï       | LATIN CAPITAL LETTER I WITH DIAERESIS      |
+
+### Small letters
+#### without diacritics
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |0061    | a       | LATIN SMALL LETTER A                       |
@@ -61,6 +95,16 @@
 |0078    | x       | LATIN SMALL LETTER X                       |
 |0079    | y       | LATIN SMALL LETTER Y                       |
 |007A    | z       | LATIN SMALL LETTER Z                       |
+
+### Diphtongs
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00C6    | Æ       | LATIN CAPITAL LETTER AE                    |
+
+### Special characters
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00D0    | Ð       | LATIN CAPITAL LETTER ETH                   |
 
 ## Numbers
 
