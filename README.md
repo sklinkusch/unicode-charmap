@@ -108,3 +108,7 @@
 |005E    |^        | CIRCUMFLEX ACCENT   |
 |005F    |_        | LOWLINE, UNDERSCORE |
 |0060    |`        | GRAVE ACCENT        |
+|007B    |{        | LEFT CURLY BRACKET  |
+|007C    |\|       | VERTICAL LINE       |
+|007D    |}        | RIGHT CURLY BRACKET |
+|007E    |~        | TILDE               |
