@@ -3,7 +3,7 @@
 ## Latin alphabet
 
 ### Capital letters (without diacritics)
-|Hex code|Character|Character description|
+|Hex code|Character|Character description   |
 |--------|---------|------------------------|
 |0041    | A       | LATIN CAPITAL LETTER A |
 |0042    | B       | LATIN CAPITAL LETTER B |
@@ -31,6 +31,36 @@
 |0058    | X       | LATIN CAPITAL LETTER X |
 |0059    | Y       | LATIN CAPITAL LETTER Y |
 |005A    | Z       | LATIN CAPITAL LETTER Z |
+
+### Small letters (without diacritics)
+|Hex code|Character|Character description   |
+|--------|---------|------------------------|
+|0061    | a       | LATIN SMALL LETTER A   |
+|0062    | b       | LATIN SMALL LETTER B   |
+|0063    | c       | LATIN SMALL LETTER C   |
+|0064    | d       | LATIN SMALL LETTER D   |
+|0065    | e       | LATIN SMALL LETTER E   |
+|0066    | f       | LATIN SMALL LETTER F   |
+|0067    | g       | LATIN SMALL LETTER G   |
+|0068    | h       | LATIN SMALL LETTER H   |
+|0069    | i       | LATIN SMALL LETTER I   |
+|006A    | j       | LATIN SMALL LETTER J   |
+|006B    | k       | LATIN SMALL LETTER K   |
+|006C    | l       | LATIN SMALL LETTER L   |
+|006D    | m       | LATIN SMALL LETTER M   |
+|006E    | n       | LATIN SMALL LETTER N   |
+|006F    | o       | LATIN SMALL LETTER O   |
+|0070    | p       | LATIN SMALL LETTER P   |
+|0071    | q       | LATIN SMALL LETTER Q   |
+|0072    | r       | LATIN SMALL LETTER R   |
+|0073    | s       | LATIN SMALL LETTER S   |
+|0074    | t       | LATIN SMALL LETTER T   |
+|0075    | u       | LATIN SMALL LETTER U   |
+|0076    | v       | LATIN SMALL LETTER V   |
+|0077    | w       | LATIN SMALL LETTER W   |
+|0078    | x       | LATIN SMALL LETTER X   |
+|0079    | y       | LATIN SMALL LETTER Y   |
+|007A    | z       | LATIN SMALL LETTER Z   |
 
 ## Zahlen
 |Hex code|Character|Character description|
