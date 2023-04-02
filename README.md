@@ -65,6 +65,45 @@
 |00CE    | Î       | LATIN CAPITAL LETTER I WITH CIRCUMFLEX     |
 |00CF    | Ï       | LATIN CAPITAL LETTER I WITH DIAERESIS      |
 
+##### **N**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00D1    | Ñ       | LATIN CAPITAL LETTER N WITH TILDE          |
+
+##### **O**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00D2    | Ò       | LATIN CAPITAL LETTER O WITH GRAVE          |
+|00D3    | Ó       | LATIN CAPITAL LETTER O WITH ACUTE          |
+|00D4    | Ô       | LATIN CAPITAL LETTER O WITH CIRCUMFLEX     |
+|00D5    | Õ       | LATIN CAPITAL LETTER O WITH TILDE          |
+|00D6    | Ö       | LATIN CAPITAL LETTER O WITH DIAERESIS      |
+|00D8    | Ø       | LATIN CAPITAL LETTER O WITH STROKE         |
+
+##### **U**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00D9    | Ù       | LATIN CAPITAL LETTER U WITH GRAVE          |
+|00DA    | Ú       | LATIN CAPITAL LETTER U WITH ACUTE          |
+|00DB    | Û       | LATIN CAPITAL LETTER U WITH CIRCUMFLEX     |
+|00DC    | Ü       | LATIN CAPITAL LETTER U WITH DIAERESIS      |
+
+##### **Y**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00DD    | Ý       | LATIN CAPITAL LETTER Y WITH ACUTE          |
+
+#### Diphthongs
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00C6    | Æ       | LATIN CAPITAL LETTER AE                    |
+
+#### Special letters
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00D0    | Ð       | LATIN CAPITAL LETTER ETH                   |
+|00DE    | Þ       | LATIN CAPITAL LETTER THORN                 |
+
 ### Small letters
 #### without diacritics
 |Hex code|Character|Character description                       |
@@ -96,15 +135,78 @@
 |0079    | y       | LATIN SMALL LETTER Y                       |
 |007A    | z       | LATIN SMALL LETTER Z                       |
 
-### Diphtongs
+#### with diacritics
+##### **A**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
-|00C6    | Æ       | LATIN CAPITAL LETTER AE                    |
+|00E0    | à       | LATIN SMALL LETTER A WITH GRAVE            |
+|00E1    | á       | LATIN SMALL LETTER A WITH ACUTE            |
+|00E2    | â       | LATIN SMALL LETTER A WITH CIRCUMFLEX       |
+|00E3    | ã       | LATIN SMALL LETTER A WITH TILDE            |
+|00E4    | ä       | LATIN SMALL LETTER A WITH DIAERESIS        |
+|00E5    | å       | LATIN SMALL LETTER A WITH RING ABOVE       |
 
-### Special characters
+##### **C**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
-|00D0    | Ð       | LATIN CAPITAL LETTER ETH                   |
+|00E7    | ç       | LATIN SMALL LETTER C WITH CEDILLA          |
+
+##### **E**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00E8    | è       | LATIN SMALL LETTER E WITH GRAVE            |
+|00E9    | é       | LATIN SMALL LETTER E WITH ACUTE            |
+|00EA    | ê       | LATIN SMALL LETTER E WITH CIRCUMFLEX       |
+|00EB    | ë       | LATIN SMALL LETTER E WITH DIAERESIS        |
+
+##### **I**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00EC    | ì       | LATIN SMALL LETTER I WITH GRAVE            |
+|00ED    | í       | LATIN SMALL LETTER I WITH ACUTE            |
+|00EE    | î       | LATIN SMALL LETTER I WITH CIRCUMFLEX       |
+|00EF    | ï       | LATIN SMALL LETTER I WITH DIAERESIS        |
+
+##### **N**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00F1    | ñ       | LATIN SMALL LETTER N WITH TILDE            |
+
+##### **O**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00F2    | ò       | LATIN SMALL LETTER O WITH GRAVE            |
+|00F3    | ó       | LATIN SMALL LETTER O WITH ACUTE            |
+|00F4    | ô       | LATIN SMALL LETTER O WITH CIRCUMFLEX       |
+|00F5    | õ       | LATIN SMALL LETTER O WITH TILDE            |
+|00F6    | ö       | LATIN SMALL LETTER O WITH DIAERESIS        |
+|00F8    | ø       | LATIN SMALL LETTER O WITH STROKE           |
+
+##### **U**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00F9    | ù       | LATIN SMALL LETTER U WITH GRAVE            |
+|00FA    | ú       | LATIN SMALL LETTER U WITH ACUTE            |
+|00FB    | û       | LATIN SMALL LETTER U WITH CIRCUMFLEX       |
+|00FC    | ü       | LATIN SMALL LETTER U WITH DIAERESIS        |
+
+##### **Y**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00FD    | ý       | LATIN SMALL LETTER Y WITH ACUTE            |
+|00FF    | ÿ       | LATIN SMALL LETTER Y WITH DIAERESIS        |
+
+#### Diphtongs
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00DF    | ß       | LATIN SMALL LETTER SHARP S                 |
+|00E6    | æ       | LATIN SMALL LETTER AE                      |
+
+#### Special letters
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|00F0    | ð       | LATIN SMALL LETTER ETH                     |
+|00FE    | þ       | LATIN SMALL LETTER THORN                   |
 
 ## Numbers
 
