@@ -260,6 +260,16 @@
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00E7    | ç       | LATIN SMALL LETTER C WITH CEDILLA          |
+|0107    | ć       | LATIN SMALL LETTER C WITH ACUTE            |
+|0109    | ĉ       | LATIN SMALL LETTER C WITH CIRCUMFLEX       |
+|010B    | ċ       | LATIN SMALL LETTER C WITH DOT ABOVE        |
+|010D    | č       | LATIN SMALL LETTER C WITH CARON            |
+
+##### **D**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|010F    | ď       | LATIN SMALL LETTER D WITH CARON            |
+|0111    | đ       | LATIN SMALL LETTER D WITH STROKE           |
 
 ##### **E**
 |Hex code|Character|Character description                       |
@@ -268,6 +278,25 @@
 |00E9    | é       | LATIN SMALL LETTER E WITH ACUTE            |
 |00EA    | ê       | LATIN SMALL LETTER E WITH CIRCUMFLEX       |
 |00EB    | ë       | LATIN SMALL LETTER E WITH DIAERESIS        |
+|0113    | ē       | LATIN SMALL LETTER E WITH MACRON           |
+|0115    | ĕ       | LATIN SMALL LETTER E WITH BREVE            |
+|0117    | ė       | LATIN SMALL LETTER E WITH DOT ABOVE        |
+|0119    | ę       | LATIN SMALL LETTER E WITH OGONEK           |
+|011B    | ě       | LATIN SMALL LETTER E WITH CARON            |
+
+##### **G**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|011D    | ĝ       | LATIN SMALL LETTER G WITH CIRCUMFLEX       |
+|011F    | ğ       | LATIN SMALL LETTER G WITH BREVE            |
+|0121    | ġ       | LATIN SMALL LETTER G WITH DOT ABOVE        |
+|0123    | ģ       | LATIN SMALL LETTER G WITH CEDILLA          |
+
+##### **H**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0125    | ĥ       | LATIN SMALL LETTER H WITH CIRCUMFLEX       |
+|0127    | ħ       | LATIN SMALL LETTER H WITH STROKE           |
 
 ##### **I**
 |Hex code|Character|Character description                       |
@@ -276,11 +305,39 @@
 |00ED    | í       | LATIN SMALL LETTER I WITH ACUTE            |
 |00EE    | î       | LATIN SMALL LETTER I WITH CIRCUMFLEX       |
 |00EF    | ï       | LATIN SMALL LETTER I WITH DIAERESIS        |
+|0129    | ĩ       | LATIN SMALL LETTER I WITH TILDE            |
+|012B    | ī       | LATIN SMALL LETTER I WITH MACRON           |
+|012D    | ĭ       | LATIN SMALL LETTER I WITH BREVE            |
+|012F    | į       | LATIN SMALL LETTER I WITH OGONEK           |
+|0131    | ı       | LATIN SMALL LETTER DOTLESS I               |
+
+##### **J**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0135    | ĵ       | LATIN SMALL LETTER J WITH CIRCUMFLEX       |
+
+##### **K**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0137    | ķ       | LATIN SMALL LETTER K WITH CEDILLA          |
+
+##### **L**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|013A    | ĺ       | LATIN SMALL LETTER L WITH ACUTE            |
+|013C    | ļ       | LATIN SMALL LETTER L WITH CEDILLA          |
+|013E    | ľ       | LATIN SMALL LETTER L WITH CARON            |
+|0140    | ŀ       | LATIN SMALL LETTER L WITH MIDDLE DOT       |
+|0142    | ł       | LATIN SMALL LETTER L WITH STROKE           |
 
 ##### **N**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00F1    | ñ       | LATIN SMALL LETTER N WITH TILDE            |
+|0144    | ń       | LATIN SMALL LETTER N WITH ACUTE            |
+|0146    | ņ       | LATIN SMALL LETTER N WITH CEDILLA          |
+|0148    | ň       | LATIN SMALL LETTER N WITH BREVE            |
+|0149    | ŉ       | LATIN SMALL LETTER N PRECEDED BY APOSTROPHE|
 
 ##### **O**
 |Hex code|Character|Character description                       |
@@ -291,6 +348,31 @@
 |00F5    | õ       | LATIN SMALL LETTER O WITH TILDE            |
 |00F6    | ö       | LATIN SMALL LETTER O WITH DIAERESIS        |
 |00F8    | ø       | LATIN SMALL LETTER O WITH STROKE           |
+|014D    | ō       | LATIN SMALL LETTER O WITH MACRON           |
+|014F    | ŏ       | LATIN SMALL LETTER O WITH BREVE            |
+|0151    | ő       | LATIN SMALL LETTER O WITH DOUBLE ACUTE     |
+
+##### **R**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0155    | ŕ       | LATIN SMALL LETTER R WITH ACUTE            |
+|0157    | ŗ       | LATIN SMALL LETTER R WITH CEDILLA          |
+|0159    | ř       | LATIN SMALL LETTER R WITH CARON            |
+
+##### **S**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|015B    | ś       | LATIN SMALL LETTER S WITH ACUTE            |
+|015D    | ŝ       | LATIN SMALL LETTER S WITH CIRCUMFLEX       |
+|015F    | ş       | LATIN SMALL LETTER S WITH CEDILLA          |
+|0161    | š       | LATIN SMALL LETTER S WITH CARON            |
+
+##### **T**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0163    | ţ       | LATIN SMALL LETTER T WITH CEDILLA          |
+|0165    | ť       | LATIN SMALL LETTER T WITH CARON            |
+|0167    | ŧ       | LATIN SMALL LETTER T WITH STROKE           |
 
 ##### **U**
 |Hex code|Character|Character description                       |
@@ -299,24 +381,48 @@
 |00FA    | ú       | LATIN SMALL LETTER U WITH ACUTE            |
 |00FB    | û       | LATIN SMALL LETTER U WITH CIRCUMFLEX       |
 |00FC    | ü       | LATIN SMALL LETTER U WITH DIAERESIS        |
+|0169    | ũ       | LATIN SMALL LETTER U WITH TILDE            |
+|016B    | ū       | LATIN SMALL LETTER U WITH MACRON           |
+|016D    | ŭ       | LATIN SMALL LETTER U WITH BREVE            |
+|016F    | ů       | LATIN SMALL LETTER U WITH RING ABOVE       |
+|0171    | ű       | LATIN SMALL LETTER U WITH DOUBLE ACUTE     |
+|0173    | ų       | LATIN SMALL LETTER U WITH OGONEK           |
+
+##### **W**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0175    | ŵ       | LATIN SMALL LETTER W WITH CIRCUMFLEX       |
 
 ##### **Y**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00FD    | ý       | LATIN SMALL LETTER Y WITH ACUTE            |
 |00FF    | ÿ       | LATIN SMALL LETTER Y WITH DIAERESIS        |
+|0177    | ŷ       | LATIN SMALL LETTER Y WITH CIRCUMFLEX       |
+
+##### **Z**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|017A    | ź       | LATIN SMALL LETTER Z WITH ACUTE            |
+|017C    | ż       | LATIN SMALL LETTER Z WITH DOT ABOVE        |
+|017E    | ž       | LATIN SMALL LETTER Z WITH CARON            |
 
 #### Diphtongs and ligatures
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00DF    | ß       | LATIN SMALL LETTER SHARP S                 |
 |00E6    | æ       | LATIN SMALL LETTER AE                      |
+|0133    | ĳ       | LATIN SMALL LIGATURE IJ                    |
+|0153    | œ       | LATIN SMALL LIGATURE OE                    |
+|017F    | ſ       | LATIN SMALL LETTER LONG S                  |
 
 #### Special letters
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00F0    | ð       | LATIN SMALL LETTER ETH                     |
 |00FE    | þ       | LATIN SMALL LETTER THORN                   |
+|0138    | ĸ       | LATIN SMALL LETTER KRA                     |
+|014B    | ŋ       | LATIN SMALL LETTER ENG                     |
 
 ## Numbers
 
