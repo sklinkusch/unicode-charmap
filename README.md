@@ -203,6 +203,7 @@
 |00C6    | Æ       | LATIN CAPITAL LETTER AE                    |
 |0132    | Ĳ       | LATIN CAPITAL LIGATURE IJ                  |
 |0152    | Œ       | LATIN CAPITAL LIGATURE OE                  |
+|1E9E    | ẞ       | LATIN CAPITAL LETTER SHARP S               |
 
 #### Special letters
 |Hex code|Character|Character description                       |
