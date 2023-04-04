@@ -43,11 +43,24 @@
 |00C3    | Ã       | LATIN CAPITAL LETTER A WITH TILDE          |
 |00C4    | Ä       | LATIN CAPITAL LETTER A WITH DIAERESIS      |
 |00C5    | Å       | LATIN CAPITAL LETTER A WITH RING ABOVE     |
+|0100    | Ā       | LATIN CAPITAL LETTER A WITH MACRON         |
+|0102    | Ă       | LATIN CAPITAL LETTER A WITH BREVE          |
+|0104    | Ą       | LATIN CAPITAL LETTER A WITH OGONEK         |
 
 ##### **C**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00C7    | Ç       | LATIN CAPITAL LETTER C WITH CEDILLA        |
+|0106    | Ć       | LATIN CAPITAL LETTER C WITH ACUTE          |
+|0108    | Ĉ       | LATIN CAPITAL LETTER C WITH CIRCUMFLEX     |
+|010A    | Ċ       | LATIN CAPITAL LETTER C WITH DOT ABOVE      |
+|010C    | Č       | LATIN CAPITAL LETTER C WITH CARON          |
+
+##### **D**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|010E    | Ď       | LATIN CAPITAL LETTER D WITH CARON          |
+|0110    | Đ       | LATIN CAPITAL LETTER D WITH STROKE         |
 
 ##### **E**
 |Hex code|Character|Character description                       |
@@ -56,6 +69,25 @@
 |00C9    | É       | LATIN CAPITAL LETTER E WITH ACUTE          |
 |00CA    | Ê       | LATIN CAPITAL LETTER E WITH CIRCUMFLEX     |
 |00CB    | Ë       | LATIN CAPITAL LETTER E WITH DIAERESIS      |
+|0112    | Ē       | LATIN CAPITAL LETTER E WITH MACRON         |
+|0114    | Ĕ       | LATIN CAPITAL LETTER E WITH BREVE          |
+|0116    | Ė       | LATIN CAPITAL LETTER E WITH DOT ABOVE      |
+|0118    | Ę       | LATIN CAPITAL LETTER E WITH OGONEK         |
+|011A    | Ě       | LATIN CAPITAL LETTER E WITH CARON          |
+
+##### **G**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|011C    | Ĝ       | LATIN CAPITAL LETTER G WITH CIRCUMFLEX     |
+|011E    | Ğ       | LATIN CAPITAL LETTER G WITH BREVE          |
+|0120    | Ġ       | LATIN CAPITAL LETTER G WITH DOT ABOVE      |
+|0122    | Ģ       | LATIN CAPITAL LETTER G WITH CEDILLA        |
+
+##### **H**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0124    | Ĥ       | LATIN CAPITAL LETTER H WITH CIRCUMFLEX     |
+|0126    | Ħ       | LATIN CAPITAL LETTER H WITH STROKE         |
 
 ##### **I**
 |Hex code|Character|Character description                       |
@@ -64,11 +96,38 @@
 |00CD    | Í       | LATIN CAPITAL LETTER I WITH ACUTE          |
 |00CE    | Î       | LATIN CAPITAL LETTER I WITH CIRCUMFLEX     |
 |00CF    | Ï       | LATIN CAPITAL LETTER I WITH DIAERESIS      |
+|0128    | Ĩ       | LATIN CAPITAL LETTER I WITH TILDE          |
+|012A    | Ī       | LATIN CAPITAL LETTER I WITH MACRON         |
+|012C    | Ĭ       | LATIN CAPITAL LETTER I WITH BREVE          |
+|012E    | Į       | LATIN CAPITAL LETTER I WITH OGONEK         |
+|0130    | İ       | LATIN CAPITAL LETTER I WITH DOT ABOVE      |
+
+##### **J**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0134    | Ĵ       | LATIN CAPITAL LETTER J WITH CIRCUMFLEX     |
+
+##### **K**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0136    | Ķ       | LATIN CAPITAL LETTER K WITH CEDILLA        |
+
+##### **L**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0139    | Ĺ       | LATIN CAPITAL LETTER L WITH ACUTE          |
+|013B    | Ļ       | LATIN CAPITAL LETTER L WITH CEDILLA        |
+|013D    | Ľ       | LATIN CAPITAL LETTER L WITH CARON          |
+|013F    | Ŀ       | LATIN CAPITAL LETTER L WITH MIDDLE DOT     |
+|0141    | Ł       | LATIN CAPITAL LETTER L WITH STROKE         |
 
 ##### **N**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00D1    | Ñ       | LATIN CAPITAL LETTER N WITH TILDE          |
+|0143    | Ń       | LATIN CAPITAL LETTER N WITH ACUTE          |
+|0145    | Ņ       | LATIN CAPITAL LETTER N WITH CEDILLA        |
+|0147    | Ň       | LATIN CAPITAL LETTER N WITH CARON          |
 
 ##### **O**
 |Hex code|Character|Character description                       |
@@ -79,6 +138,31 @@
 |00D5    | Õ       | LATIN CAPITAL LETTER O WITH TILDE          |
 |00D6    | Ö       | LATIN CAPITAL LETTER O WITH DIAERESIS      |
 |00D8    | Ø       | LATIN CAPITAL LETTER O WITH STROKE         |
+|014C    | Ō       | LATIN CAPITAL LETTER O WITH MACRON         |
+|014E    | Ŏ       | LATIN CAPITAL LETTER O WITH BREVE          |
+|0150    | Ő       | LATIN CAPITAL LETTER O WITH DOUBLE ACUTE   |
+
+##### **R**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0154    | Ŕ       | LATIN CAPITAL LETTER R WITH ACUTE          |
+|0156    | Ŗ       | LATIN CAPITAL LETTER R WITH CEDILLA        |
+|0158    | Ř       | LATIN CAPITAL LETTER R WITH CARON          |
+
+##### **S**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|015A    | Ś       | LATIN CAPITAL LETTER S WITH ACUTE          |
+|015C    | Ŝ       | LATIN CAPITAL LETTER S WITH CIRCUMFLEX     |
+|015E    | Ş       | LATIN CAPITAL LETTER S WITH CEDILLA        |
+|0160    | Š       | LATIN CAPITAL LETTER S WITH CARON          |
+
+##### **T**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0162    | Ţ       | LATIN CAPITAL LETTER T WITH CEDILLA        |
+|0164    | Ť       | LATIN CAPITAL LETTER T WITH CARON          |
+|0166    | Ŧ       | LATIN CAPITAL LETTER T WITH STROKE         |
 
 ##### **U**
 |Hex code|Character|Character description                       |
@@ -87,22 +171,45 @@
 |00DA    | Ú       | LATIN CAPITAL LETTER U WITH ACUTE          |
 |00DB    | Û       | LATIN CAPITAL LETTER U WITH CIRCUMFLEX     |
 |00DC    | Ü       | LATIN CAPITAL LETTER U WITH DIAERESIS      |
+|0168    | Ũ       | LATIN CAPITAL LETTER U WITH TILDE          |
+|016A    | Ū       | LATIN CAPITAL LETTER U WITH MACRON         |
+|016C    | Ŭ       | LATIN CAPITAL LETTER U WITH BREVE          |
+|016E    | Ů       | LATIN CAPITAL LETTER U WITH RING ABOVE     |
+|0170    | Ű       | LATIN CAPITAL LETTER U WITH DOUBLE ACUTE   |
+|0172    | Ų       | LATIN CAPITAL LETTER U WITH OGONEK         |
+
+##### **W**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0174    | Ŵ       | LATIN CAPITAL LETTER W WITH CIRCUMFLEX     |
 
 ##### **Y**
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00DD    | Ý       | LATIN CAPITAL LETTER Y WITH ACUTE          |
+|0176    | Ŷ       | LATIN CAPITAL LETTER Y WITH CIRCUMFLEX     |
+|0178    | Ÿ       | LATIN CAPITAL LETTER Y WITH DIAERESIS      |
 
-#### Diphthongs
+##### **Z**
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0179    | Ź       | LATIN CAPITAL LETTER Z WITH ACUTE          |
+|017B    | Ż       | LATIN CAPITAL LETTER Z WITH DOT ABOVE      |
+|017D    | Ž       | LATIN CAPITAL LETTER Z WITH CARON          |
+
+#### Diphthongs and ligatures
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00C6    | Æ       | LATIN CAPITAL LETTER AE                    |
+|0132    | Ĳ       | LATIN CAPITAL LIGATURE IJ                  |
+|0152    | Œ       | LATIN CAPITAL LIGATURE OE                  |
 
 #### Special letters
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00D0    | Ð       | LATIN CAPITAL LETTER ETH                   |
 |00DE    | Þ       | LATIN CAPITAL LETTER THORN                 |
+|014A    | Ŋ       | LATIN CAPITAL LETTER ENG                   |
 
 ### Small letters
 #### without diacritics
@@ -145,6 +252,9 @@
 |00E3    | ã       | LATIN SMALL LETTER A WITH TILDE            |
 |00E4    | ä       | LATIN SMALL LETTER A WITH DIAERESIS        |
 |00E5    | å       | LATIN SMALL LETTER A WITH RING ABOVE       |
+|0101    | ā       | LATIN SMALL LETTER A WITH MACRON           |
+|0103    | ă       | LATIN SMALL LETTER A WITH BREVE            |
+|0105    | ą       | LATIN SMALL LETTER A WITH OGONEK           |
 
 ##### **C**
 |Hex code|Character|Character description                       |
@@ -196,7 +306,7 @@
 |00FD    | ý       | LATIN SMALL LETTER Y WITH ACUTE            |
 |00FF    | ÿ       | LATIN SMALL LETTER Y WITH DIAERESIS        |
 
-#### Diphtongs
+#### Diphtongs and ligatures
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |00DF    | ß       | LATIN SMALL LETTER SHARP S                 |
