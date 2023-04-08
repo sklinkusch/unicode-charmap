@@ -465,6 +465,8 @@
 |038C    | Ό       | GREEK CAPITAL LETTER OMICRON WITH TONOS    |
 |038E    | Ύ       | GREEK CAPITAL LETTER UPSILON WITH TONOS    |
 |038F    | Ώ       | GREEK CAPITAL LETTER OMEGA WITH TONOS      |
+|03AA    | Ϊ       | GREEK CAPITAL LETTER IOTA WITH DIALYTICA   |
+|03AB    | Ϋ       | GREEK CAPITAL LETTER UPSILON WITH DIALYTICA|
 
 ### Small letters
 #### without diacritics
@@ -502,6 +504,21 @@
 |03F0    | ϰ       | GREEK KAPPA SYMBOL                         |
 |03F1    | ϱ       | GREEK RHO SYMBOL                           |
 |03F5    | ϵ       | GREEK LUNATE EPSILON SYMBOL                |
+
+#### with diacritics
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0390    | ΐ       | GREEK SMALL LETTER IOTA WITH DIALYTICA AND TONOS |
+|03AC    | ά       | GREEK SMALL LETTER ALPHA WITH TONOS        |
+|03AD    | έ       | GREEK SMALL LETTER EPSILON WITH TONOS      |
+|03AE    | ή       | GREEK SMALL LETTER ETA WITH TONOS          |
+|03AF    | ί       | GREEK SMALL LETTER IOTA WITH TONOS         |
+|03B0    | ΰ       | GREEK SMALL LETTER UPSILON WITH DIALYTICA AND TONOS |
+|03CA    | ϊ       | GREEK SMALL LETTER IOTA WITH DIALYTICA     |
+|03CB    | ϋ       | GREEK SMALL LETTER UPSILON WITH DIALYTICA  |
+|03CC    | ό       | GREEK SMALL LETTER OMICRON WITH TONOS      |
+|03CD    | ύ       | GREEK SMALL LETTER UPSILON WITH TONOS      |
+|03CE    | ώ       | GREEK SMALL LETTER OMEGA WITH TONOS        |
 
 ## Numbers
 
