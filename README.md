@@ -466,6 +466,43 @@
 |038E    | Ύ       | GREEK CAPITAL LETTER UPSILON WITH TONOS    |
 |038F    | Ώ       | GREEK CAPITAL LETTER OMEGA WITH TONOS      |
 
+### Small letters
+#### without diacritics
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|03B1    | α       | GREEK SMALL LETTER ALPHA                   |
+|03B2    | β       | GREEK SMALL LETTER BETA                    |
+|03B3    | γ       | GREEK SMALL LETTER GAMMA                   |
+|03B4    | δ       | GREEK SMALL LETTER DELTA                   |
+|03B5    | ε       | GREEK SMALL LETTER EPSILON                 |
+|03B6    | ζ       | GREEK SMALL LETTER ZETA                    |
+|03B7    | η       | GREEK SMALL LETTER ETA                     |
+|03B8    | θ       | GREEK SMALL LETTER THETA                   |
+|03B9    | ι       | GREEK SMALL LETTER IOTA                    |
+|03BA    | κ       | GREEK SMALL LETTER KAPPA                   |
+|03BB    | λ       | GREEK SMALL LETTER LAMBDA                  |
+|03BC    | μ       | GREEK SMALL LETTER MU                      |
+|03BD    | ν       | GREEK SMALL LETTER NU                      |
+|03BE    | ξ       | GREEK SMALL LETTER XI                      |
+|03BF    | ο       | GREEK SMALL LETTER OMICRON                 |
+|03C0    | π       | GREEK SMALL LETTER PI                      |
+|03C1    | ρ       | GREEK SMALL LETTER RHO                     |
+|03C2    | ς       | GREEK SMALL LETTER FINAL SIGMA             |
+|03C3    | σ       | GREEK SMALL LETTER SIGMA                   |
+|03C4    | τ       | GREEK SMALL LETTER TAU                     |
+|03C5    | υ       | GREEK SMALL LETTER UPSILON                 |
+|03C6    | φ       | GREEK SMALL LETTER PHI                     |
+|03C7    | χ       | GREEK SMALL LETTER CHI                     |
+|03C8    | ψ       | GREEK SMALL LETTER PSI                     |
+|03C9    | ω       | GREEK SMALL LETTER OMEGA                   |
+|03D0    | ϐ       | GREEK BETA SYMBOL                          |
+|03D1    | ϑ       | GREEK THETA SYMBOL                         |
+|03D5    | ϕ       | GREEK PHI SYMBOL                           |
+|03D6    | ϖ       | GREEK PI SYMBOL                            |
+|03F0    | ϰ       | GREEK KAPPA SYMBOL                         |
+|03F1    | ϱ       | GREEK RHO SYMBOL                           |
+|03F5    | ϵ       | GREEK LUNATE EPSILON SYMBOL                |
+
 ## Numbers
 
 ### Cardinal numbers
