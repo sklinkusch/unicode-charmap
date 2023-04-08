@@ -455,6 +455,17 @@
 |03A8    | Ψ       | GREEK CAPITAL LETTER PSI                   |
 |03A9    | Ω       | GREEK CAPITAL LETTER OMEGA                 |
 
+#### with diacritics
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0386    | Ά       | GREEK CAPITAL LETTER ALPHA WITH TONOS      |
+|0388    | Έ       | GREEK CAPITAL LETTER EPSILON WITH TONOS    |
+|0389    | Ή       | GREEK CAPITAL LETTER ETA WITH TONOS        |
+|038A    | Ί       | GREEK CAPITAL LETTER IOTA WITH TONOS       |
+|038C    | Ό       | GREEK CAPITAL LETTER OMICRON WITH TONOS    |
+|038E    | Ύ       | GREEK CAPITAL LETTER UPSILON WITH TONOS    |
+|038F    | Ώ       | GREEK CAPITAL LETTER OMEGA WITH TONOS      |
+
 ## Numbers
 
 ### Cardinal numbers
