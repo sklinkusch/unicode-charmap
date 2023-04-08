@@ -520,6 +520,59 @@
 |03CD    | ύ       | GREEK SMALL LETTER UPSILON WITH TONOS      |
 |03CE    | ώ       | GREEK SMALL LETTER OMEGA WITH TONOS        |
 
+## Cyrillic alphabet
+### Capital letters
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0400    | Ѐ       | CYRILLIC CAPITAL LETTER IE WITH GRAVE      |
+|0401    | Ё       | CYRILLIC CAPITAL LETTER IO                 |
+|0402    | Ђ       | CYRILLIC CAPITAL LETTER DJE                |
+|0403    | Ѓ       | CYRILLIC CAPITAL LETTER GJE                |
+|0404    | Є       | CYRILLIC CAPITAL LETTER UKRAINIAN IE       |
+|0405    | Ѕ       | CYRILLIC CAPITAL LETTER DZE                |
+|0406    | І       | CYRILLIC CAPITAL LETTER BYELORUSSIAN-UKRAINIAN I |
+|0407    | Ї       | CYRILLIC CAPITAL LETTER YI                 |
+|0408    | Ј       | CYRILLIC CAPITAL LETTER JE                 |
+|0409    | Љ       | CYRILLIC CAPITAL LETTER LJE                |
+|040A    | Њ       | CYRILLIC CAPITAL LETTER NJE                |
+|040B    | Ћ       | CYRILLIC CAPITAL LETTER TSHE               |
+|040C    | Ќ       | CYRILLIC CAPITAL LETTER KJE                |
+|040D    | Ѝ       | CYRILLIC CAPITAL LETTER I WITH GRAVE       |
+|040E    | Ў       | CYRILLIC CAPITAL LETTER SHORT U            |
+|040F    | Џ       | CYRILLIC CAPITAL LETTER DZHE               |
+|0410    | А       | CYRILLIC CAPITAL LETTER A                  |
+|0411    | Б       | CYRILLIC CAPITAL LETTER BE                 |
+|0412    | В       | CYRILLIC CAPITAL LETTER VE                 |
+|0413    | Г       | CYRILLIC CAPITAL LETTER GHE                |
+|0414    | Д       | CYRILLIC CAPITAL LETTER DE                 |
+|0415    | Е       | CYRILLIC CAPITAL LETTER IE                 |
+|0416    | Ж       | CYRILLIC CAPITAL LETTER ZHE                |
+|0417    | З       | CYRILLIC CAPITAL LETTER ZE                 |
+|0418    | И       | CYRILLIC CAPITAL LETTER I                  |
+|0419    | Й       | CYRILLIC CAPITAL LETTER SHORT I            |
+|041A    | К       | CYRILLIC CAPITAL LETTER KA                 |
+|041B    | Л       | CYRILLIC CAPITAL LETTER EL                 |
+|041C    | М       | CYRILLIC CAPITAL LETTER EM                 |
+|041D    | Н       | CYRILLIC CAPITAL LETTER EN                 |
+|041E    | О       | CYRILLIC CAPITAL LETTER O                  |
+|041F    | П       | CYRILLIC CAPITAL LETTER PE                 |
+|0420    | Р       | CYRILLIC CAPITAL LETTER ER                 |
+|0421    | С       | CYRILLIC CAPITAL LETTER ES                 |
+|0422    | Т       | CYRILLIC CAPITAL LETTER TE                 |
+|0423    | У       | CYRILLIC CAPITAL LETTER U                  |
+|0424    | Ф       | CYRILLIC CAPITAL LETTER EF                 |
+|0425    | Х       | CYRILLIC CAPITAL LETTER HA                 |
+|0426    | Ц       | CYRILLIC CAPITAL LETTER TSE                |
+|0427    | Ч       | CYRILLIC CAPITAL LETTER CHE                |
+|0428    | Ш       | CYRILLIC CAPITAL LETTER SHA                |
+|0429    | Щ       | CYRILLIC CAPITAL LETTER SHCHA              |
+|042A    | Ъ       | CYRILLIC CAPITAL LETTER HARD SIGN          |
+|042B    | Ы       | CYRILLIC CAPITAL LETTER YERU               |
+|042C    | Ь       | CYRILLIC CAPITAL LETTER SOFT SIGN          |
+|042D    | Э       | CYRILLIC CAPITAL LETTER E                  |
+|042E    | Ю       | CYRILLIC CAPITAL LETTER YU                 |
+|042F    | Я       | CYRILLIC CAPITAL LETTER YA                 |
+
 ## Numbers
 
 ### Cardinal numbers
