@@ -425,6 +425,36 @@
 |0138    | ĸ       | LATIN SMALL LETTER KRA                     |
 |014B    | ŋ       | LATIN SMALL LETTER ENG                     |
 
+## Greek alphabet
+### Capital letters
+#### without diacritics
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0391    | Α       | GREEK CAPITAL LETTER ALPHA                 |
+|0392    | Β       | GREEK CAPITAL LETTER BETA                  |
+|0393    | Γ       | GREEK CAPITAL LETTER GAMMA                 |
+|0394    | Δ       | GREEK CAPITAL LETTER DELTA                 |
+|0395    | Ε       | GREEK CAPITAL LETTER EPSILON               |
+|0396    | Ζ       | GREEK CAPITAL LETTER ZETA                  |
+|0397    | Η       | GREEK CAPITAL LETTER ETA                   |
+|0398    | Θ       | GREEK CAPITAL LETTER THETA                 |
+|0399    | Ι       | GREEK CAPITAL LETTER IOTA                  |
+|039A    | Κ       | GREEK CAPITAL LETTER KAPPA                 |
+|039B    | Λ       | GREEK CAPITAL LETTER LAMBDA                |
+|039C    | Μ       | GREEK CAPITAL LETTER MU                    |
+|039D    | Ν       | GREEK CAPITAL LETTER NU                    |
+|039E    | Ξ       | GREEK CAPITAL LETTER XI                    |
+|039F    | Ο       | GREEK CAPITAL LETTER OMICRON               |
+|03A0    | Π       | GREEK CAPITAL LETTER PI                    |
+|03A1    | Ρ       | GREEK CAPITAL LETTER RHO                   |
+|03A3    | Σ       | GREEK CAPITAL LETTER SIGMA                 |
+|03A4    | Τ       | GREEK CAPITAL LETTER TAU                   |
+|03A5    | Υ       | GREEK CAPITAL LETTER UPSILON               |
+|03A6    | Φ       | GREEK CAPITAL LETTER PHI                   |
+|03A7    | Χ       | GREEK CAPITAL LETTER CHI                   |
+|03A8    | Ψ       | GREEK CAPITAL LETTER PSI                   |
+|03A9    | Ω       | GREEK CAPITAL LETTER OMEGA                 |
+
 ## Numbers
 
 ### Cardinal numbers
