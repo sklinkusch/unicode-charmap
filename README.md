@@ -647,6 +647,20 @@
 |00B2    | ²       | SUPERSCRIPT TWO                            |
 |00B3    | ³       | SUPERSCRIPT THREE                          |
 |00B9    | ¹       | SUPERSCRIPT ONE                            |
+|2070    | ⁰       | SUPERSCRIPT ZERO                           |
+|2071    | ⁱ       | SUPERSCRIPT LATIN SMALL LETTER I           |
+|2074    | ⁴       | SUPERSCRIPT FOUR                           |
+|2075    | ⁵       | SUPERSCRIPT FIVE                           |
+|2076    | ⁶       | SUPERSCRIPT SIX                            |
+|2077    | ⁷       | SUPERSCRIPT SEVEN                          |
+|2078    | ⁸       | SUPERSCRIPT EIGHT                          |
+|2079    | ⁹       | SUPERSCRIPT NINE                           |
+|207A    | ⁺       | SUPERSCRIPT PLUS SIGN                      |
+|207B    | ⁻       | SUPERSCRIPT MINUS                          |
+|207C    | ⁼       | SUPERSCRIPT EQUALS SIGN                    |
+|207D    | ⁽       | SUPERSCRIPT LEFT PARENTHESIS               |
+|207E    | ⁾       | SUPERSCRIPT RIGHT PARENTHESIS              |
+|207F    | ⁿ       | SUPERSCRIPT LATIN SMALL LETTER N           |
 
 ### Fractions
 |Hex code|Character|Character description                       |
