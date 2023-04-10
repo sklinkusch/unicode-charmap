@@ -573,6 +573,58 @@
 |042E    | Ю       | CYRILLIC CAPITAL LETTER YU                 |
 |042F    | Я       | CYRILLIC CAPITAL LETTER YA                 |
 
+### Small letters
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|0430    | а       | CYRILLIC SMALL LETTER A                    |
+|0431    | б       | CYRILLIC SMALL LETTER BE                   |
+|0432    | в       | CYRILLIC SMALL LETTER VE                   |
+|0433    | г       | CYRILLIC SMALL LETTER GHE                  |
+|0434    | д       | CYRILLIC SMALL LETTER DE                   |
+|0435    | е       | CYRILLIC SMALL LETTER IE                   |
+|0436    | ж       | CYRILLIC SMALL LETTER ZHE                  |
+|0437    | з       | CYRILLIC SMALL LETTER ZE                   |
+|0438    | и       | CYRILLIC SMALL LETTER I                    |
+|0439    | й       | CYRILLIC SMALL LETTER SHORT I              |
+|043A    | к       | CYRILLIC SMALL LETTER KA                   |
+|043B    | л       | CYRILLIC SMALL LETTER EL                   |
+|043C    | м       | CYRILLIC SMALL LETTER EM                   |
+|043D    | н       | CYRILLIC SMALL LETTER EN                   |
+|043E    | о       | CYRILLIC SMALL LETTER O                    |
+|043F    | п       | CYRILLIC SMALL LETTER PE                   |
+|0440    | р       | CYRILLIC SMALL LETTER ER                   |
+|0441    | с       | CYRILLIC SMALL LETTER ES                   |
+|0442    | т       | CYRILLIC SMALL LETTER TE                   |
+|0443    | у       | CYRILLIC SMALL LETTER U                    |
+|0444    | ф       | CYRILLIC SMALL LETTER EF                   |
+|0445    | х       | CYRILLIC SMALL LETTER HA                   |
+|0446    | ц       | CYRILLIC SMALL LETTER TSE                  |
+|0447    | ч       | CYRILLIC SMALL LETTER CHE                  |
+|0448    | ш       | CYRILLIC SMALL LETTER SHA                  |
+|0449    | щ       | CYRILLIC SMALL LETTER SHCHA                |
+|044A    | ъ       | CYRILLIC SMALL LETTER HARD SIGN            |
+|044B    | ы       | CYRILLIC SMALL LETTER YERU                 |
+|044C    | ь       | CYRILLIC SMALL LETTER SOFT SIGN            |
+|044D    | э       | CYRILLIC SMALL LETTER E                    |
+|044E    | ю       | CYRILLIC SMALL LETTER YU                   |
+|044F    | я       | CYRILLIC SMALL LETTER YA                   |
+|0450    | ѐ       | CYRILLIC SMALL LETTER IE WITH GRAVE        |
+|0451    | ё       | CYRILLIC SMALL LETTER IO                   |
+|0452    | ђ       | CYRILLIC SMALL LETTER DJE                  |
+|0453    | ѓ       | CYRILLIC SMALL LETTER GJE                  |
+|0454    | є       | CYRILLIC SMALL LETTER UKRAINIAN IE         |
+|0455    | ѕ       | CYRILLIC SMALL LETTER DZE                  |
+|0456    | і       | CYRILLIC SMALL LETTER BYELORUSSIAN-UKRAINIAN I |
+|0457    | ї       | CYRILLIC SMALL LETTER YI                   |
+|0458    | ј       | CYRILLIC SMALL LETTER JE                   |
+|0459    | љ       | CYRILLIC SMALL LETTER LJE                  |
+|045A    | њ       | CYRILLIC SMALL LETTER NJE                  |
+|045B    | ћ       | CYRILLIC SMALL LETTER TSHE                 |
+|045C    | ќ       | CYRILLIC SMALL LETTER KJE                  |
+|045D    | ѝ       | CYRILLIC SMALL LETTER I WITH GRAVE         |
+|045E    | ў       | CYRILLIC SMALL LETTER SHORT U              |
+|045F    | џ       | CYRILLIC SMALL LETTER DZHE                 |
+
 ## Numbers
 
 ### Cardinal numbers
