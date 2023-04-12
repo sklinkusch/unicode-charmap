@@ -662,6 +662,37 @@
 |207E    | ⁾       | SUPERSCRIPT RIGHT PARENTHESIS              |
 |207F    | ⁿ       | SUPERSCRIPT LATIN SMALL LETTER N           |
 
+### Subscripts
+|Hex code|Character|Character description                       |
+|--------|---------|--------------------------------------------|
+|2080    | ₀       | SUBSCRIPT ZERO                             |
+|2081    | ₁       | SUBSCRIPT ONE                              |
+|2082    | ₂       | SUBSCRIPT TWO                              |
+|2083    | ₃       | SUBSCRIPT THREE                            |
+|2084    | ₄       | SUBSCRIPT FOUR                             |
+|2085    | ₅       | SUBSCRIPT FIVE                             |
+|2086    | ₆       | SUBSCRIPT SIX                              |
+|2087    | ₇       | SUBSCRIPT SEVEN                            |
+|2088    | ₈       | SUBSCRIPT EIGHT                            |
+|2089    | ₉       | SUBSCRIPT NINE                             |
+|208A    | ₊       | SUBSCRIPT PLUS SIGN                        |
+|208B    | ₋       | SUBSCRIPT MINUS                            |
+|208C    | ₌       | SUBSCRIPT EQUALS SIGN                      |
+|208D    | ₍       | SUBSCRIPT LEFT PARENTHESIS                 |
+|208E    | ₎       | SUBSCRIPT RIGHT PARENTHESIS                |
+|2090    | ₐ       | LATIN SUBSCRIPT SMALL LETTER A             |
+|2091    | ₑ       | LATIN SUBSCRIPT SMALL LETTER E             |
+|2092    | ₒ       | LATIN SUBSCRIPT SMALL LETTER O             |
+|2093    | ₓ       | LATIN SUBSCRIPT SMALL LETTER X             |
+|2095    | ₕ       | LATIN SUBSCRIPT SMALL LETTER H             |
+|2096    | ₖ       | LATIN SUBSCRIPT SMALL LETTER K             |
+|2097    | ₗ       | LATIN SUBSCRIPT SMALL LETTER L             |
+|2098    | ₘ       | LATIN SUBSCRIPT SMALL LETTER M             |
+|2099    | ₙ       | LATIN SUBSCRIPT SMALL LETTER N             |
+|209A    | ₚ       | LATIN SUBSCRIPT SMALL LETTER P             |
+|209B    | ₛ       | LATIN SUBSCRIPT SMALL LETTER S             |
+|209C    | ₜ       | LATIN SUBSCRIPT SMALL LETTER T             |
+
 ### Fractions
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
