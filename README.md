@@ -758,6 +758,9 @@
 |Hex code|Character|Character description                       |
 |--------|---------|--------------------------------------------|
 |002D    | -       | HYPHEN-MINUS                               |
+|2013    | –       | EN DASH                                    |
+|2014    | —       | EM DASH                                    |
+|2E3A    | ⸺      | TWO-EM DASH                                |
 
 #### Diacritical symbols
 |Hex code|Character|Character description                       |
